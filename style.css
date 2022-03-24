@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Birdd.jpg);
+    background-size: cover;
+    background-position: top ;
+    font-family: sans-serif;: Impact;
+}
+.hading{
+    background: linear-gradient(to right, #cf6209 0%, #eecf1e 100%);
+    color: rgb(16, 140, 248);
+    margin: 5px;
+}
+.Para{
+    
+    color: #ccaa14;
+    
+    margin: 0px 0px 0px 5px;
+}
+.Accept{
+    color: #dfd21e;
+}
+.main{
+    
+    border: 6px solid #d1c40f;
+    padding: 0px 5px 20px 20px;
+    
+    margin: 30px 20px 20px 20px;
+}
+
+
+.name{ 
+    border: none;
+    border-radius: 17px;
+    margin-bottom: 5px;
+    
+}
+.Fname{
+    margin-bottom: 5px;
+}
+.Address{
+    margin-bottom: 5px;
+}
+.City{
+    margin-bottom: 5px;
+}
+.uname{
+    margin-bottom: 5px;
+}
+
+
+
+.pass{
+    margin-bottom: 5px;
+}
+.cpass{
+    margin: 0%;
+}
+
